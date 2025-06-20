@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tabassum Shaikh</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Java & MERN Stack</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 
 - 🔭 I’m currently working on **Something cool and fun! 🚀**
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **tabassumsk720@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
