@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Something cool and fun! 🚀**
 
-- 🌱 I’m currently learning **How to use Git and GitHub better with the help of [docs.github.com]**
+- 🏘️ I’m currently Working on **Property Management System** Project **https://github.com/TabassumSK/TripNest**
 
-- 📫 How to reach me **tabassumsk720@gmail.com**
+- 📫 To reach me **tabassumsk720@gmail.com**
 
 <p align="left">
 </p>
