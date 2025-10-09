@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Something cool and fun! 🚀**
 
-- 🏘️ I’m currently Working on **Property Management System** Project **https://github.com/TabassumSK/TripNest**
+- 🏡 I’m currently Working on Project **Property Management System**
 
 - 📫 To reach me **tabassumsk720@gmail.com**
 
